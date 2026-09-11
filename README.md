@@ -2,7 +2,7 @@
 
 # João Vitor Bittencourt Branco
 
-### Electrical Engineering Student | Data Analytics | Python
+## Electrical Engineering Student | Data Analytics | Python
 
 Building data-driven solutions, automation tools and analytical systems with Python.
 
