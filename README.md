@@ -2,7 +2,7 @@
 
 # João Vitor Branco
 
-### Electrical Engineering Student • Data Analytics • Python
+### Electrical Engineering Student • Data Analytics • Python • SQL
 
 Building data-driven solutions, automation tools and analytical systems.
 
@@ -10,7 +10,7 @@ Building data-driven solutions, automation tools and analytical systems.
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I'm an **Electrical Engineering student** with an interest in **Data Analytics, Python and automation**.
 
@@ -27,7 +27,7 @@ My current focus includes:
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
