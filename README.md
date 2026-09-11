@@ -1,6 +1,6 @@
 <div align="center">
 
-# João Vitor Branco
+# João Vitor Bittencourt Branco
 
 ### Electrical Engineering Student | Data Analytics | Python
 
